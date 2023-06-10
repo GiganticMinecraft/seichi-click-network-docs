@@ -26,4 +26,4 @@
 
 先程掲げたサーバー群の管轄はseichi.click network全体で行っていますが、実際の本ルールの管理運用は[ギガンティック☆整地鯖](https://www.seichi.network/gigantic)の[運営チーム](https://www.seichi.network/admin)が行っています。
 
-ただし、恒常的なサポートは行っておりませんので、お問い合わせなどを頂いても、[ギガンティック☆整地鯖 ルール2条2項に基づく異議申し立て](https://github.com/GiganticMinecraft/seichi-click-network-docs/blob/main/Rule.md#%E7%AC%AC2%E9%A0%85%E7%95%B0%E8%AD%B0%E7%94%B3%E3%81%97%E7%AB%8B%E3%81%A6)などを除いて、返答は原則行いません。
+ただし、恒常的なサポートは行っておりませんので、お問い合わせなどを頂いても、[ルール2条2項に基づく異議申し立て](https://github.com/GiganticMinecraft/seichi-click-network-docs/blob/main/Rule.md#%E7%AC%AC2%E9%A0%85%E7%95%B0%E8%AD%B0%E7%94%B3%E3%81%97%E7%AB%8B%E3%81%A6)などを除いて、返答は原則行いません。
