@@ -3,8 +3,6 @@
 本リポジトリは、seichi.click.networkに所属するサーバーの内、以下に掲げるゲームサーバーに関する情報をまとめたものです。
 
 * ロビー
-* SPADE
-* Petra
 * 1day to reset
 * 香川チャレンジ
 
